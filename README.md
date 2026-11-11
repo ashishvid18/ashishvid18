@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  Building intelligent applications, exploring AI, and turning ideas into real-world products.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=750&lines=Building+AI-powered+applications;Exploring+Generative+AI+%26+LLMs;Python+%26+Machine+Learning+Developer;Turning+ideas+into+real-world+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
