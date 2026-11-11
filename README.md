@@ -114,9 +114,29 @@ A visually interactive portfolio showcasing my development work and projects.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishvid18&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ashishvid18&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🐍 My Contribution Activity
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ashishvid18/ashishvid18/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ashishvid18/ashishvid18/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/ashishvid18/ashishvid18/output/github-snake.svg"
+  />
+</picture>
 
 ---
 
